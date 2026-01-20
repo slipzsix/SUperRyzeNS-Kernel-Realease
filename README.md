@@ -1,4 +1,4 @@
-# SUperRyzeNS-Kernel-Realease
+# SUperRyzeNS
 
 #        🦊SUperRyzeNS
 
